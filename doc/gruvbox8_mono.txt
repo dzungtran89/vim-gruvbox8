@@ -1,22 +1,22 @@
-*gruvbox8.txt*	For Vim version 8.0	Last change: 2020 Sep 13
+*gruvbox8_mono.txt*	For Vim version 8.0	Last change: 2020 Sep 13
 
 
-		Gruvbox 8 color scheme
+		Gruvbox 8 Mono color scheme
 
-Gruvbox 8 is a popular colorscheme originally designed by morhetz. The Vim
+Gruvbox 8 Mono is a popular colorscheme originally designed by morhetz. The Vim
 version comes in three variants:
 
-- gruvbox8: "medium" contrast;
-- gruvbox8_hard: "hard" contrast;
-- gruvbox8_soft: "soft" contrast.
+- gruvbox8_mono: "medium" contrast;
+- gruvbox8_mono_hard: "hard" contrast;
+- gruvbox8_mono_soft: "soft" contrast.
 
 Each variant supports dark and light backgrounds, so you must set 'background'
 before loading the colorscheme. For example:
 >
 	set background=dark
-	colorscheme gruvbox8
+	colorscheme gruvbox8_mono
 <
-Gruvbox 8 works out of the box anywhere, from black&white terminals to
+Gruvbox 8 Mono works out of the box anywhere, from black&white terminals to
 true-color terminals and GUI versions of Vim.
 
 ==============================================================================

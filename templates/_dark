@@ -12,7 +12,7 @@ Color: fg3             rgb(189, 174, 147)    144
 Color: fg4             rgb(168, 153, 132)    137 Gray
 Color: grey            rgb(146, 131, 116)    102 DarkGray
 Color: red             rgb(235, 219, 178)    203 Red
-Color: green           rgb(213, 196, 161)    142 Green
+Color: green           rgb(235, 219, 178)    142 Green
 Color: yellow          rgb(235, 219, 178)    214 Yellow
 Color: blue            rgb(235, 219, 178)    109 Blue
 Color: purple          rgb(235, 219, 178)    175 Magenta
