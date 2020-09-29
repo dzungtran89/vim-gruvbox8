@@ -1,4 +1,4 @@
-*gruvbox8_mono.txt*	For Vim version 8.0	Last change: 2020 Sep 13
+*gruvbox8_mono.txt*	For Vim version 8.0	Last change: 2020 Sep 14
 
 
 		Gruvbox 8 Mono color scheme

@@ -141,7 +141,7 @@ Delimiter                        orange none
 Error                            red    bg0     bold,reverse
 Exception                        red    none
 Float                            purple none
-Function                         green  none    bold
+Function                         green  none
 Identifier                       blue   none
 Ignore                           fg     none
 Include                          aqua   none
